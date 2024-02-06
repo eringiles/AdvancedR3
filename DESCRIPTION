@@ -14,3 +14,5 @@ Imports:
     tidyr,
     usethis
 Encoding: UTF-8
+Suggests: 
+    renv
