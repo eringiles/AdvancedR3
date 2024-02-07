@@ -22,4 +22,5 @@ Suggests:
     renv,
     styler
 Depends: 
+    tidymodels,
     tidyverse
