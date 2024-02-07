@@ -1425,6 +1425,27 @@
       ],
       "Hash": "15b594369e70b975ba9f064295983499"
     },
+    "tarchetypes": {
+      "Package": "tarchetypes",
+      "Version": "0.7.11",
+      "Source": "Repository",
+      "Repository": "CRAN",
+      "Requirements": [
+        "R",
+        "digest",
+        "dplyr",
+        "fs",
+        "parallel",
+        "rlang",
+        "targets",
+        "tibble",
+        "tidyselect",
+        "utils",
+        "vctrs",
+        "withr"
+      ],
+      "Hash": "156780d04fe436c7141f2d21b2b3446e"
+    },
     "targets": {
       "Package": "targets",
       "Version": "1.4.1",
